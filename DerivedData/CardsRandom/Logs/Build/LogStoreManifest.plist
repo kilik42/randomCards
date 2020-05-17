@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>5C3BFF58-8118-4C2D-8EA1-A8D9C075FED5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5C3BFF58-8118-4C2D-8EA1-A8D9C075FED5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CardsRandom project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CardsRandom</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CardsRandom</string>
+			<key>timeStartedRecording</key>
+			<real>611433761.06390297</real>
+			<key>timeStoppedRecording</key>
+			<real>611433761.13717198</real>
+			<key>title</key>
+			<string>Build CardsRandom</string>
+			<key>uniqueIdentifier</key>
+			<string>5C3BFF58-8118-4C2D-8EA1-A8D9C075FED5</string>
+		</dict>
+		<key>5D56E7E9-C851-4152-9327-E1F9D89622C6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5D56E7E9-C851-4152-9327-E1F9D89622C6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CardsRandom project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CardsRandom</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CardsRandom</string>
+			<key>timeStartedRecording</key>
+			<real>611434940.92541206</real>
+			<key>timeStoppedRecording</key>
+			<real>611434941.28478301</real>
+			<key>title</key>
+			<string>Build CardsRandom</string>
+			<key>uniqueIdentifier</key>
+			<string>5D56E7E9-C851-4152-9327-E1F9D89622C6</string>
+		</dict>
+		<key>BA3AD06E-5764-4CC4-84F7-D037F91E7420</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BA3AD06E-5764-4CC4-84F7-D037F91E7420.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CardsRandom project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CardsRandom</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CardsRandom</string>
+			<key>timeStartedRecording</key>
+			<real>611434675.18313897</real>
+			<key>timeStoppedRecording</key>
+			<real>611434676.15094805</real>
+			<key>title</key>
+			<string>Build CardsRandom</string>
+			<key>uniqueIdentifier</key>
+			<string>BA3AD06E-5764-4CC4-84F7-D037F91E7420</string>
+		</dict>
+		<key>BD661E05-C71D-41F8-B144-42DA95F01AF2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BD661E05-C71D-41F8-B144-42DA95F01AF2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CardsRandom project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CardsRandom</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CardsRandom</string>
+			<key>timeStartedRecording</key>
+			<real>611433752.35027695</real>
+			<key>timeStoppedRecording</key>
+			<real>611433760.00637102</real>
+			<key>title</key>
+			<string>Build CardsRandom</string>
+			<key>uniqueIdentifier</key>
+			<string>BD661E05-C71D-41F8-B144-42DA95F01AF2</string>
+		</dict>
+		<key>CEE9E82B-05DF-40F1-9891-C526CEB17E63</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CEE9E82B-05DF-40F1-9891-C526CEB17E63.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CardsRandom project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CardsRandom</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CardsRandom</string>
+			<key>timeStartedRecording</key>
+			<real>611435039.98556101</real>
+			<key>timeStoppedRecording</key>
+			<real>611435040.33442104</real>
+			<key>title</key>
+			<string>Build CardsRandom</string>
+			<key>uniqueIdentifier</key>
+			<string>CEE9E82B-05DF-40F1-9891-C526CEB17E63</string>
+		</dict>
+		<key>D5DC0E7E-F665-4AA7-9EC3-E0019D71BFC2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D5DC0E7E-F665-4AA7-9EC3-E0019D71BFC2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CardsRandom project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CardsRandom</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CardsRandom</string>
+			<key>timeStartedRecording</key>
+			<real>611434904.51635301</real>
+			<key>timeStoppedRecording</key>
+			<real>611434907.88753998</real>
+			<key>title</key>
+			<string>Build CardsRandom</string>
+			<key>uniqueIdentifier</key>
+			<string>D5DC0E7E-F665-4AA7-9EC3-E0019D71BFC2</string>
+		</dict>
+		<key>DBCEE293-F8CC-4DA1-B1F4-86A0825FB065</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DBCEE293-F8CC-4DA1-B1F4-86A0825FB065.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CardsRandom project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CardsRandom</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CardsRandom</string>
+			<key>timeStartedRecording</key>
+			<real>611434597.15275598</real>
+			<key>timeStoppedRecording</key>
+			<real>611434597.79963601</real>
+			<key>title</key>
+			<string>Build CardsRandom</string>
+			<key>uniqueIdentifier</key>
+			<string>DBCEE293-F8CC-4DA1-B1F4-86A0825FB065</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

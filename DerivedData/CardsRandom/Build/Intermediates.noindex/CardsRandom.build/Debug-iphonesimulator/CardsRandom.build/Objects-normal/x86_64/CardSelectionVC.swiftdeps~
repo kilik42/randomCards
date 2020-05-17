@@ -1,0 +1,541 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "CardSelectionVC"
+provides-nominal:
+- "11CardsRandom15CardSelectionVCC"
+provides-member:
+- ["11CardsRandom15CardSelectionVCC", ""]
+provides-dynamic-lookup:
+- "buttons"
+- "cardImageView"
+- "cards"
+- "restartButtonTapped"
+- "rulesButtonTapped"
+- "showRandomImage"
+- "startTimer"
+- "stopButtonTapped"
+- "timer"
+- "viewDidLoad"
+depends-top-level:
+- !private "??"
+- "AssignmentPrecedence"
+- !private "BooleanLiteralType"
+- "Card"
+- "CardSelectionVC"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- !private "StringLiteralType"
+- "Timer"
+- "UIButton"
+- "UIImage"
+- "UIImageView"
+- "UIViewController"
+depends-member:
+- !private ["Sa", "randomElement"]
+- !private ["SK", "randomElement"]
+- !private ["So7CALayerC", "cornerRadius"]
+- !private ["So15CALayerDelegateP", "image"]
+- !private ["So15CALayerDelegateP", "layer"]
+- !private ["So13CAMediaTimingP", "cornerRadius"]
+- ["s7CVarArgP", "Card"]
+- !private ["s7CVarArgP", "Timer"]
+- !private ["s7CVarArgP", "UIImage"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "buttons"]
+- !private ["s7CVarArgP", "cardImageView"]
+- !private ["s7CVarArgP", "cards"]
+- !private ["s7CVarArgP", "cornerRadius"]
+- !private ["s7CVarArgP", "image"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "invalidate"]
+- !private ["s7CVarArgP", "layer"]
+- !private ["s7CVarArgP", "randomElement"]
+- !private ["s7CVarArgP", "scheduledTimer"]
+- !private ["s7CVarArgP", "showRandomImage"]
+- !private ["s7CVarArgP", "startTimer"]
+- !private ["s7CVarArgP", "timer"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- ["11CardsRandom4CardV", "allValues"]
+- ["11CardsRandom15CardSelectionVCC", "Card"]
+- ["11CardsRandom15CardSelectionVCC", "Timer"]
+- ["11CardsRandom15CardSelectionVCC", "UIButton"]
+- ["11CardsRandom15CardSelectionVCC", "UIImage"]
+- ["11CardsRandom15CardSelectionVCC", "UIImageView"]
+- ["11CardsRandom15CardSelectionVCC", "buttons"]
+- ["11CardsRandom15CardSelectionVCC", "cardImageView"]
+- ["11CardsRandom15CardSelectionVCC", "cards"]
+- ["11CardsRandom15CardSelectionVCC", "deinit"]
+- ["11CardsRandom15CardSelectionVCC", "init"]
+- ["11CardsRandom15CardSelectionVCC", "restartButtonTapped"]
+- ["11CardsRandom15CardSelectionVCC", "rulesButtonTapped"]
+- ["11CardsRandom15CardSelectionVCC", "showRandomImage"]
+- ["11CardsRandom15CardSelectionVCC", "startTimer"]
+- ["11CardsRandom15CardSelectionVCC", "stopButtonTapped"]
+- ["11CardsRandom15CardSelectionVCC", "timer"]
+- ["11CardsRandom15CardSelectionVCC", "viewDidLoad"]
+- !private ["Sl", "randomElement"]
+- !private ["10Foundation15ContiguousBytesP", "randomElement"]
+- ["s28CustomDebugStringConvertibleP", "Card"]
+- !private ["s28CustomDebugStringConvertibleP", "Timer"]
+- !private ["s28CustomDebugStringConvertibleP", "UIImage"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "buttons"]
+- !private ["s28CustomDebugStringConvertibleP", "cardImageView"]
+- !private ["s28CustomDebugStringConvertibleP", "cards"]
+- !private ["s28CustomDebugStringConvertibleP", "cornerRadius"]
+- !private ["s28CustomDebugStringConvertibleP", "image"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "invalidate"]
+- !private ["s28CustomDebugStringConvertibleP", "layer"]
+- !private ["s28CustomDebugStringConvertibleP", "randomElement"]
+- !private ["s28CustomDebugStringConvertibleP", "scheduledTimer"]
+- !private ["s28CustomDebugStringConvertibleP", "showRandomImage"]
+- !private ["s28CustomDebugStringConvertibleP", "startTimer"]
+- !private ["s28CustomDebugStringConvertibleP", "timer"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s17CustomReflectableP", "image"]
+- !private ["s17CustomReflectableP", "invalidate"]
+- !private ["s17CustomReflectableP", "randomElement"]
+- ["s23CustomStringConvertibleP", "Card"]
+- !private ["s23CustomStringConvertibleP", "Timer"]
+- !private ["s23CustomStringConvertibleP", "UIImage"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "buttons"]
+- !private ["s23CustomStringConvertibleP", "cardImageView"]
+- !private ["s23CustomStringConvertibleP", "cards"]
+- !private ["s23CustomStringConvertibleP", "cornerRadius"]
+- !private ["s23CustomStringConvertibleP", "image"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "invalidate"]
+- !private ["s23CustomStringConvertibleP", "layer"]
+- !private ["s23CustomStringConvertibleP", "randomElement"]
+- !private ["s23CustomStringConvertibleP", "scheduledTimer"]
+- !private ["s23CustomStringConvertibleP", "showRandomImage"]
+- !private ["s23CustomStringConvertibleP", "startTimer"]
+- !private ["s23CustomStringConvertibleP", "timer"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["10Foundation12DataProtocolP", "randomElement"]
+- !private ["Se", "image"]
+- !private ["Se", "invalidate"]
+- !private ["Se", "randomElement"]
+- !private ["SE", "image"]
+- !private ["SE", "invalidate"]
+- !private ["SE", "randomElement"]
+- ["SQ", "Card"]
+- !private ["SQ", "Timer"]
+- !private ["SQ", "UIImage"]
+- ["SQ", ""]
+- !private ["SQ", "buttons"]
+- !private ["SQ", "cardImageView"]
+- !private ["SQ", "cards"]
+- !private ["SQ", "cornerRadius"]
+- !private ["SQ", "image"]
+- !private ["SQ", "init"]
+- !private ["SQ", "invalidate"]
+- !private ["SQ", "layer"]
+- !private ["SQ", "randomElement"]
+- !private ["SQ", "scheduledTimer"]
+- !private ["SQ", "showRandomImage"]
+- !private ["SQ", "startTimer"]
+- !private ["SQ", "timer"]
+- !private ["SQ", "viewDidLoad"]
+- !private ["s25ExpressibleByArrayLiteralP", "randomElement"]
+- !private ["s23ExpressibleByNilLiteralP", "image"]
+- !private ["s23ExpressibleByNilLiteralP", "invalidate"]
+- ["SH", "Card"]
+- !private ["SH", "Timer"]
+- !private ["SH", "UIImage"]
+- ["SH", ""]
+- !private ["SH", "buttons"]
+- !private ["SH", "cardImageView"]
+- !private ["SH", "cards"]
+- !private ["SH", "cornerRadius"]
+- !private ["SH", "image"]
+- !private ["SH", "init"]
+- !private ["SH", "invalidate"]
+- !private ["SH", "layer"]
+- !private ["SH", "randomElement"]
+- !private ["SH", "scheduledTimer"]
+- !private ["SH", "showRandomImage"]
+- !private ["SH", "startTimer"]
+- !private ["SH", "timer"]
+- !private ["SH", "viewDidLoad"]
+- !private ["SM", "randomElement"]
+- !private ["10Foundation19MutableDataProtocolP", "randomElement"]
+- ["So8NSCodingP", "Card"]
+- !private ["So8NSCodingP", "Timer"]
+- !private ["So8NSCodingP", "UIImage"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "buttons"]
+- !private ["So8NSCodingP", "cardImageView"]
+- !private ["So8NSCodingP", "cards"]
+- !private ["So8NSCodingP", "cornerRadius"]
+- !private ["So8NSCodingP", "image"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "layer"]
+- !private ["So8NSCodingP", "showRandomImage"]
+- !private ["So8NSCodingP", "startTimer"]
+- !private ["So8NSCodingP", "timer"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- ["So26NSExtensionRequestHandlingP", "Card"]
+- !private ["So26NSExtensionRequestHandlingP", "Timer"]
+- !private ["So26NSExtensionRequestHandlingP", "UIImage"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So26NSExtensionRequestHandlingP", "buttons"]
+- !private ["So26NSExtensionRequestHandlingP", "cardImageView"]
+- !private ["So26NSExtensionRequestHandlingP", "cards"]
+- !private ["So26NSExtensionRequestHandlingP", "showRandomImage"]
+- !private ["So26NSExtensionRequestHandlingP", "startTimer"]
+- !private ["So26NSExtensionRequestHandlingP", "timer"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- !private ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderWritingP", "init"]
+- ["So8NSObjectC", "Card"]
+- ["So8NSObjectC", "Timer"]
+- ["So8NSObjectC", "UIButton"]
+- ["So8NSObjectC", "UIImage"]
+- ["So8NSObjectC", "UIImageView"]
+- ["So8NSObjectC", "buttons"]
+- ["So8NSObjectC", "cardImageView"]
+- ["So8NSObjectC", "cards"]
+- !private ["So8NSObjectC", "cornerRadius"]
+- !private ["So8NSObjectC", "image"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "invalidate"]
+- !private ["So8NSObjectC", "layer"]
+- ["So8NSObjectC", "restartButtonTapped"]
+- ["So8NSObjectC", "rulesButtonTapped"]
+- !private ["So8NSObjectC", "scheduledTimer"]
+- ["So8NSObjectC", "showRandomImage"]
+- ["So8NSObjectC", "startTimer"]
+- ["So8NSObjectC", "stopButtonTapped"]
+- ["So8NSObjectC", "timer"]
+- ["So8NSObjectC", "viewDidLoad"]
+- ["So8NSObjectP", "Card"]
+- !private ["So8NSObjectP", "Timer"]
+- !private ["So8NSObjectP", "UIImage"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "buttons"]
+- !private ["So8NSObjectP", "cardImageView"]
+- !private ["So8NSObjectP", "cards"]
+- !private ["So8NSObjectP", "cornerRadius"]
+- !private ["So8NSObjectP", "image"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "invalidate"]
+- !private ["So8NSObjectP", "layer"]
+- !private ["So8NSObjectP", "scheduledTimer"]
+- !private ["So8NSObjectP", "showRandomImage"]
+- !private ["So8NSObjectP", "startTimer"]
+- !private ["So8NSObjectP", "timer"]
+- !private ["So8NSObjectP", "viewDidLoad"]
+- !private ["So14NSSecureCodingP", "cornerRadius"]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["Sq", "image"]
+- !private ["Sq", "invalidate"]
+- !private ["Sk", "randomElement"]
+- !private ["Sm", "randomElement"]
+- !private ["ST", "randomElement"]
+- !private ["So7NSTimerC", "invalidate"]
+- !private ["So7NSTimerC", "scheduledTimer"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "image"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "layer"]
+- !private ["So29UIAccessibilityIdentificationP", "image"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "layer"]
+- !private ["So12UIAppearanceP", "image"]
+- !private ["So12UIAppearanceP", "layer"]
+- ["So21UIAppearanceContainerP", "Card"]
+- !private ["So21UIAppearanceContainerP", "Timer"]
+- !private ["So21UIAppearanceContainerP", "UIImage"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "buttons"]
+- !private ["So21UIAppearanceContainerP", "cardImageView"]
+- !private ["So21UIAppearanceContainerP", "cards"]
+- !private ["So21UIAppearanceContainerP", "image"]
+- !private ["So21UIAppearanceContainerP", "layer"]
+- !private ["So21UIAppearanceContainerP", "showRandomImage"]
+- !private ["So21UIAppearanceContainerP", "startTimer"]
+- !private ["So21UIAppearanceContainerP", "timer"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- !private ["So8UIButtonC", "layer"]
+- ["So18UIContentContainerP", "Card"]
+- !private ["So18UIContentContainerP", "Timer"]
+- !private ["So18UIContentContainerP", "UIImage"]
+- ["So18UIContentContainerP", ""]
+- !private ["So18UIContentContainerP", "buttons"]
+- !private ["So18UIContentContainerP", "cardImageView"]
+- !private ["So18UIContentContainerP", "cards"]
+- !private ["So18UIContentContainerP", "showRandomImage"]
+- !private ["So18UIContentContainerP", "startTimer"]
+- !private ["So18UIContentContainerP", "timer"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- !private ["So9UIControlC", "layer"]
+- !private ["So17UICoordinateSpaceP", "image"]
+- !private ["So17UICoordinateSpaceP", "layer"]
+- !private ["So13UIDynamicItemP", "image"]
+- !private ["So13UIDynamicItemP", "layer"]
+- ["So18UIFocusEnvironmentP", "Card"]
+- !private ["So18UIFocusEnvironmentP", "Timer"]
+- !private ["So18UIFocusEnvironmentP", "UIImage"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "buttons"]
+- !private ["So18UIFocusEnvironmentP", "cardImageView"]
+- !private ["So18UIFocusEnvironmentP", "cards"]
+- !private ["So18UIFocusEnvironmentP", "image"]
+- !private ["So18UIFocusEnvironmentP", "layer"]
+- !private ["So18UIFocusEnvironmentP", "showRandomImage"]
+- !private ["So18UIFocusEnvironmentP", "startTimer"]
+- !private ["So18UIFocusEnvironmentP", "timer"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So11UIFocusItemP", "image"]
+- !private ["So11UIFocusItemP", "layer"]
+- !private ["So20UIFocusItemContainerP", "image"]
+- !private ["So20UIFocusItemContainerP", "layer"]
+- !private ["So7UIImageC", "init"]
+- !private ["So11UIImageViewC", "image"]
+- !private ["So39UIItemProviderPresentationSizeProvidingP", "init"]
+- !private ["So24UILargeContentViewerItemP", "image"]
+- !private ["So24UILargeContentViewerItemP", "layer"]
+- ["So30UIPasteConfigurationSupportingP", "Card"]
+- !private ["So30UIPasteConfigurationSupportingP", "Timer"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIImage"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "buttons"]
+- !private ["So30UIPasteConfigurationSupportingP", "cardImageView"]
+- !private ["So30UIPasteConfigurationSupportingP", "cards"]
+- !private ["So30UIPasteConfigurationSupportingP", "image"]
+- !private ["So30UIPasteConfigurationSupportingP", "layer"]
+- !private ["So30UIPasteConfigurationSupportingP", "showRandomImage"]
+- !private ["So30UIPasteConfigurationSupportingP", "startTimer"]
+- !private ["So30UIPasteConfigurationSupportingP", "timer"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- ["So11UIResponderC", "Card"]
+- ["So11UIResponderC", "Timer"]
+- ["So11UIResponderC", "UIButton"]
+- ["So11UIResponderC", "UIImage"]
+- ["So11UIResponderC", "UIImageView"]
+- ["So11UIResponderC", "buttons"]
+- ["So11UIResponderC", "cardImageView"]
+- ["So11UIResponderC", "cards"]
+- !private ["So11UIResponderC", "image"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "layer"]
+- ["So11UIResponderC", "restartButtonTapped"]
+- ["So11UIResponderC", "rulesButtonTapped"]
+- ["So11UIResponderC", "showRandomImage"]
+- ["So11UIResponderC", "startTimer"]
+- ["So11UIResponderC", "stopButtonTapped"]
+- ["So11UIResponderC", "timer"]
+- ["So11UIResponderC", "viewDidLoad"]
+- ["So30UIResponderStandardEditActionsP", "Card"]
+- !private ["So30UIResponderStandardEditActionsP", "Timer"]
+- !private ["So30UIResponderStandardEditActionsP", "UIImage"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "buttons"]
+- !private ["So30UIResponderStandardEditActionsP", "cardImageView"]
+- !private ["So30UIResponderStandardEditActionsP", "cards"]
+- !private ["So30UIResponderStandardEditActionsP", "image"]
+- !private ["So30UIResponderStandardEditActionsP", "layer"]
+- !private ["So30UIResponderStandardEditActionsP", "showRandomImage"]
+- !private ["So30UIResponderStandardEditActionsP", "startTimer"]
+- !private ["So30UIResponderStandardEditActionsP", "timer"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "layer"]
+- ["So16UIStateRestoringP", "Card"]
+- !private ["So16UIStateRestoringP", "Timer"]
+- !private ["So16UIStateRestoringP", "UIImage"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So16UIStateRestoringP", "buttons"]
+- !private ["So16UIStateRestoringP", "cardImageView"]
+- !private ["So16UIStateRestoringP", "cards"]
+- !private ["So16UIStateRestoringP", "showRandomImage"]
+- !private ["So16UIStateRestoringP", "startTimer"]
+- !private ["So16UIStateRestoringP", "timer"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- ["So18UITraitEnvironmentP", "Card"]
+- !private ["So18UITraitEnvironmentP", "Timer"]
+- !private ["So18UITraitEnvironmentP", "UIImage"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "buttons"]
+- !private ["So18UITraitEnvironmentP", "cardImageView"]
+- !private ["So18UITraitEnvironmentP", "cards"]
+- !private ["So18UITraitEnvironmentP", "image"]
+- !private ["So18UITraitEnvironmentP", "layer"]
+- !private ["So18UITraitEnvironmentP", "showRandomImage"]
+- !private ["So18UITraitEnvironmentP", "startTimer"]
+- !private ["So18UITraitEnvironmentP", "timer"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- ["So23UIUserActivityRestoringP", "Card"]
+- !private ["So23UIUserActivityRestoringP", "Timer"]
+- !private ["So23UIUserActivityRestoringP", "UIImage"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "buttons"]
+- !private ["So23UIUserActivityRestoringP", "cardImageView"]
+- !private ["So23UIUserActivityRestoringP", "cards"]
+- !private ["So23UIUserActivityRestoringP", "image"]
+- !private ["So23UIUserActivityRestoringP", "layer"]
+- !private ["So23UIUserActivityRestoringP", "showRandomImage"]
+- !private ["So23UIUserActivityRestoringP", "startTimer"]
+- !private ["So23UIUserActivityRestoringP", "timer"]
+- !private ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- !private ["So6UIViewC", "image"]
+- !private ["So6UIViewC", "layer"]
+- ["So16UIViewControllerC", "Card"]
+- ["So16UIViewControllerC", "Timer"]
+- ["So16UIViewControllerC", "UIButton"]
+- ["So16UIViewControllerC", "UIImage"]
+- ["So16UIViewControllerC", "UIImageView"]
+- ["So16UIViewControllerC", ""]
+- ["So16UIViewControllerC", "buttons"]
+- ["So16UIViewControllerC", "cardImageView"]
+- ["So16UIViewControllerC", "cards"]
+- ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "restartButtonTapped"]
+- ["So16UIViewControllerC", "rulesButtonTapped"]
+- ["So16UIViewControllerC", "showRandomImage"]
+- ["So16UIViewControllerC", "startTimer"]
+- ["So16UIViewControllerC", "stopButtonTapped"]
+- ["So16UIViewControllerC", "timer"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- !private ["s14_ArrayProtocolP", "randomElement"]
+- !private ["s24_DestructorSafeContainerP", "randomElement"]
+- !private ["s26_ExpressibleByImageLiteralP", "init"]
+- !private ["s19_HasContiguousBytesP", "randomElement"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "randomElement"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "Card"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Timer"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIImage"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "buttons"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "cardImageView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "cards"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "cornerRadius"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "image"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "invalidate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "layer"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "scheduledTimer"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "showRandomImage"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "startTimer"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "timer"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "Card"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "Timer"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "UIImage"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "buttons"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "cardImageView"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "cards"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "cornerRadius"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "image"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "invalidate"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "layer"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "scheduledTimer"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "showRandomImage"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "startTimer"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "timer"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "viewDidLoad"]
+- !private ["s21_ObjectiveCBridgeableP", "image"]
+- !private ["s21_ObjectiveCBridgeableP", "invalidate"]
+- !private ["s21_ObjectiveCBridgeableP", "randomElement"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "image"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "layer"]
+depends-nominal:
+- !private "Sa"
+- !private "SK"
+- !private "So7CALayerC"
+- !private "So15CALayerDelegateP"
+- !private "So13CAMediaTimingP"
+- "s7CVarArgP"
+- "11CardsRandom4CardV"
+- "11CardsRandom15CardSelectionVCC"
+- !private "Sl"
+- !private "10Foundation15ContiguousBytesP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- "SH"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- "So8NSCodingP"
+- "So26NSExtensionRequestHandlingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "Sq"
+- !private "Sk"
+- !private "Sm"
+- !private "ST"
+- !private "So7NSTimerC"
+- !private "So48UIAccessibilityContentSizeCategoryImageAdjustingP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- !private "So8UIButtonC"
+- "So18UIContentContainerP"
+- !private "So9UIControlC"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So7UIImageC"
+- !private "So11UIImageViewC"
+- !private "So39UIItemProviderPresentationSizeProvidingP"
+- !private "So24UILargeContentViewerItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- !private "So35UISpringLoadedInteractionSupportingP"
+- "So16UIStateRestoringP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- !private "s14_ArrayProtocolP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s26_ExpressibleByImageLiteralP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "c8f78d3c82bfa5c420c5c1544ad94453"

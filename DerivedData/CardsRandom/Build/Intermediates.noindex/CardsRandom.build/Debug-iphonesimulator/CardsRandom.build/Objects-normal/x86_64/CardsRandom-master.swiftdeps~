@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.2.2 (swiftlang-1103.0.32.6 clang-1103.0.32.51)"
+options: "6c86fc19f03432d2d78b2a2bf592f154"
+build_time: [1589740952, 495242000]
+inputs:
+  "/Users/marvinevins/Library/Autosave Information/CardsRandom/CardsRandom/ViewController.swift": [1589737401, 205811462]
+  "/Users/marvinevins/Library/Autosave Information/CardsRandom/CardsRandom/CardSelectionVC.swift": [1589740918, 610673140]
+  "/Users/marvinevins/Library/Autosave Information/CardsRandom/CardsRandom/Card.swift": [1589740528, 354347106]
+  "/Users/marvinevins/Library/Autosave Information/CardsRandom/CardsRandom/AppDelegate.swift": [1589737401, 194969735]
+  "/Users/marvinevins/Library/Autosave Information/CardsRandom/CardsRandom/SceneDelegate.swift": [1589737401, 203876568]
